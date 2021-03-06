@@ -1,1 +1,78 @@
 # problems-singledigit
+
+Question:
+
+You are given a number N and your task is to convert the given N to a single digit by the adding the digits of the number N until it becomes a single digit.
+For Example,
+If N=999, 9+9+9=27, 2+7=9.
+The digits are added until it becomes a single digit value, so the output is 9.
+
+Input Description:
+
+The first line contains an integer N (1<=N<=10^20).
+
+Output Description:
+
+Print the resulatant single digit value by the adding the digits of the number N until it becomes a single digit.
+
+Sample Input:
+
+537
+
+Sample Output:
+
+6
+
+Explanantion:
+
+The resultant after consequent addition of digits of the number 537 is 6 i.e., 5+3+7=15, 1+5=6
+
+Testcase 1:
+
+Input:
+
+45723972
+
+Output:
+
+3
+
+Testcase 2:
+
+Input:
+
+6895958
+
+Output:
+
+5
+
+Testcase 3:
+
+Input:
+
+132387844
+
+Output:
+
+4
+
+Testcase 4:
+
+Input:
+
+5654324569789
+
+Output:
+
+1
+
+Testcase 5:
+
+Input:
+
+923123435987
+
+Output:
+
+2
