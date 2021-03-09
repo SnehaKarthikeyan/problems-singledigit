@@ -15,6 +15,10 @@ Output Description:
 
 Print the resulatant single digit value by the adding the digits of the number N until it becomes a single digit.
 
+Hints:
+
+Separate each digit and find the sum until it becomes a single digit.
+
 Sample Input:
 
 537
