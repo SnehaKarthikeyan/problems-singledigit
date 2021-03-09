@@ -13,7 +13,7 @@ The first line contains an integer N (1<=N<=10^20).
 
 Output Description:
 
-Print the resulatant single digit value by the adding the digits of the number N until it becomes a single digit.
+Print the resultant single digit value by adding the digits of the number N until it becomes a single digit.
 
 Hints:
 
@@ -27,7 +27,7 @@ Sample Output:
 
 6
 
-Explanantion:
+Explanation:
 
 The resultant after consequent addition of digits of the number 537 is 6 i.e., 5+3+7=15, 1+5=6
 
