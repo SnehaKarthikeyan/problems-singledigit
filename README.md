@@ -2,7 +2,7 @@
 
 Question:
 
-You are given a number N and your task is to convert the given N to a single digit by the adding the digits of the number N until it becomes a single digit.
+You are given a number N and your task is to convert the given N to a single digit by adding the digits of the number N until it becomes a single digit.
 For Example,
 If N=999, 9+9+9=27, 2+7=9.
 The digits are added until it becomes a single digit value, so the output is 9.
